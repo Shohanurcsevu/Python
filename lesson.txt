@@ -1,0 +1,46 @@
+6/11/19
+
+-   study list, touple, set, string, dict
+
+        differences between them and how to use them
+
+
+
+
+
+
+5/11/19
+
+-   install python 3+
+-   make sure you have select auto path included.
+
+        to check path is ok or not:
+            in terminal:
+                python3 -V
+
+-   running process of a python file:
+
+    make a file main.py
+
+        print("hello world")
+
+    open terminal> python3 main.py > enter
+
+
+
+Task:
+
+    read the input file
+    write the namta in a new file
+
+
+input file:
+    8
+    6
+    5
+
+        8> 8 er namta
+        6> 6 er namta
+
+    hints:
+        read file line by line and for each line call the namta fucntion.
